@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @batibot323
+- 👋 Hi, I’m Hani Ho
 - 👀 I’m interested in creating a better world through software, studying languages, and learning about other cultures
 - 🌱 I’m currently learning React and Angular
 - 💞️ I’m looking to collaborate on a Spanish learning app as an English speaker. It should also be capabale to extend to other languages.
